@@ -44,57 +44,55 @@ Intended Schedule:
 
 Background preparation:
 
-	March 27 - April 27:
-		March 27 - April 3:
-		- Development enviroment setup
-		April 3 - April 10:
-		- Current Numpy’s documentation analysis, getting to know the documentation processes
-		April 10 - April 17:
-		- Getting in touch with mentors, getting to know Numpy’s development processes
-		April 17 - April 27:
-		- Investigation about ways to unify .c and .pyx function calling, find ways to integrate this funcionality in the existing public API for Numpy 
+	March 27 - April 3:
+	- Development enviroment setup
+	April 3 - April 10:
+	- Current Numpy’s documentation analysis, getting to know the documentation processes
+	April 10 - April 17:
+	- Getting in touch with mentors, getting to know Numpy’s development processes
+	April 17 - April 27:
+	- Investigation about ways to unify .c and .pyx function calling, find ways to integrate this funcionality in the existing public API for Numpy 
 Community Bounding:
 	April 27 - May 25:
-		April 27 - May 5:
-		- My sister’s wedding, gotta catch a plane! I will be unavailable at this week
-		May 5 - May 12:
-		- Validation of previous analysis (trial and error), documentation of results and feedback from mentor.  Choose some specific core code in C which we must try to port
-		May 12 - May 19:
-		- Definition of Done (DoD) of the concept must be clearly defined and documented
-		May 19 - May 25:
-		- Coding week, preparation to start the real work
+	April 27 - May 5:
+	- My sister’s wedding, gotta catch a plane! I will be unavailable at this week
+	May 5 - May 12:
+	- Validation of previous analysis (trial and error), documentation of results and feedback from mentor.  Choose some specific core code in  which we must try to port
+	May 12 - May 19:
+	- Definition of Done (DoD) of the concept must be clearly defined and documented
+	May 19 - May 25:
+	- Coding week, preparation to start the real work
 
 Student Coding:
-	May 25 - August 24:
-		May 25 - June 1:
-		- Some “hacky proof-of-concept system” is expected to exist at this point, then proceed with mentor input. List ideas on how to attack the big picture
-		- Getting feedback from mentor, then straight coding week
-		June 1 - June 8:
-		- Checking current direction with DoD, feedback from mentor
-		June 8 - June 15
-		- Run profiler on current code, check for hot code and bottlenecks, then optimize,  document beta public API documentation  
-		June 15 - June 22:
-		- Proof of Concept API must be done at this point 
-		June 22 - June 29:
-		- Get feedback from mentor, at this point, based on the developed POC, we must decide what else are we going to implement 
-		June 29 - July 6
-		- Profile all functions for hot spots, optimize 
-		July 6 - July 13:
-		- Document actual API, collect data for perfomance standards
-		July 13 - July 20:
-		- Straight coding week, optimization
-		July 20 - July 27:
-		- Feedback from mentor regarding DoD and final value delivery for Numpy, define realistic final objectives and deadlines for the next 3 weeks, track time spent on tasks until so far
-		July 27 - August 3:
-		- Straight coding week
-		August 3 - August 10:
+	May 25 - June 1:
+	- Some “hacky proof-of-concept system” is expected to exist at this point, then proceed with mentor input. List ideas on how to attack the big picture
+	- Getting feedback from mentor, then straight coding week
+	June 1 - June 8:
+	- Checking current direction with DoD, feedback from mentor
+	June 8 - June 15
+	- Run profiler on current code, check for hot code and bottlenecks, then optimize,  document beta public API documentation  
+	June 15 - June 22:
+	- Proof of Concept API must be done at this point 
+	June 22 - June 29:
+	- Get feedback from mentor, at this point, based on the developed POC, we must decide what else are we going to implement 
+	June 29 - July 6
+	- Profile all functions for hot spots, optimize 
+	July 6 - July 13:
+	- Document actual API, collect data for perfomance standards
+	July 13 - July 20:
+	- Straight coding week, optimization
+	July 20 - July 27:
+	- Feedback from mentor regarding DoD and final value delivery for Numpy, define realistic final objectives and deadlines for the next 3 weeks, track time spent on tasks until so far
+	July 27 - August 3:
+	- Straight coding week
+	August 3 - August 10:
 - Straight coding week
-		August 10 - August 17:
-		- Final validation with mentor, documentation
-		August 17 - August 24:
-		- Final adjusts, doing anything that needs to be finalized, delivery!
+	August 10 - August 17:
+	- Final validation with mentor, documentation
+	August 17 - August 24:
+	- Final adjusts, doing anything that needs to be finalized, delivery!
 
 Off season:
 	August 24 - February 9
-		Enjoy ultimate glory! Get feedback from mentor and community, document ideas. Drink lots of whiskey and prepare for next year.
+	Enjoy ultimate glory! Get feedback from mentor and community, document ideas. Drink lots of whiskey and prepare for next year.
 
